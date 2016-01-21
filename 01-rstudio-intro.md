@@ -15,7 +15,7 @@ minutes: 45
 > * To be able to manage your workspace in an interactive R session
 > * To be able to use mathematical and comparison operations
 > * To be able to call functions
-> * Introduction to package management
+> ##AW: * Introduction to package management
 > 
 
 ## Introduction to RStudio
